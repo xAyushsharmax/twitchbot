@@ -1,2 +1,15 @@
 *.rbc
 *.fyc
+# Ignore .env file
+.env
+
+# Ignore compiled Python files
+*.pyc
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore system files (optional)
+.DS_Store
+Thumbs.db
+
