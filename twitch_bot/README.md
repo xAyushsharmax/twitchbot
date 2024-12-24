@@ -1,6 +1,6 @@
 Cloning the Repository:
 
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/wizardrypanda/twitch_bot.git
 cd repo-name
 
 Installing Dependencies:
