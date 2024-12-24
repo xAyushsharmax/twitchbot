@@ -9,9 +9,7 @@ Installing Dependencies:
 ```
  pip install -r requirements.txt
 ```
-Creating a .env File:
-
-    Copy .env.example and fill in the required values:
+Creating a .env File ,Copy .env.example and fill in the required values:
 
     cp .env.example .env
 
